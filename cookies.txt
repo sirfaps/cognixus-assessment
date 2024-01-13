@@ -1,1 +1,1 @@
-localhost	FALSE	/	FALSE	0	session	[Replace this with session's cookie value]
+localhost	FALSE	/	FALSE	0	session	[Replace in this box with session's cookie]

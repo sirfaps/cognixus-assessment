@@ -118,7 +118,7 @@ def list_all_tasks():
         cursor = conn.cursor()
 
         # SQL SELECT command to retrieve tasks for a specific user_id
-        # select_all_tasks = "SELECT * FROM tasks WHERE user_id = ?"        << this shows user's client_secret. which is confidential
+        # select_all_tasks = "SELECT * FROM tasks WHERE user_id = ?"     <---- this shows user's client_secret. which is confidential
         select_all_tasks = "SELECT id, description, status FROM tasks WHERE user_id = ?"
 
         # Execute the SQL command with the user_id parameter
