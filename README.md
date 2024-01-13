@@ -14,7 +14,7 @@ In this project I am creating RESTful APIs using Python as the main language of 
 - SQLite3 installed on your computer
 
 ## Setup Instructions
-1. [Clone the repository and Setup](clone-and-setup-the-system)
+1. [Clone the repository and Setup](#clone-and-setup-the-system)
 2. Set up environment variables [env](#setup-.env)
 3. Login to the system just by click the "Login button on the screen"</br>
 ![login server](https://github.com/sirfaps/cognixus-assessment/assets/82250418/400d323a-faf8-477f-98b6-37e78ebc4a75)
