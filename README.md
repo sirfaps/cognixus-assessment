@@ -15,10 +15,10 @@ In this project I am creating RESTful APIs using Python as the main language of 
 
 ## Setup Instructions
 1. [Clone the repository and Setup](#clone-and-setup-the-system)
-2. Set up environment variables [env](#setup-.env)
-3. Login to the system just by click the "Login button on the screen"</br>
+2. Set up environment variables [.env](#setup-env)
+3. Login to the system just by clicking the "Login button on the screen"</br>
 ![login server](https://github.com/sirfaps/cognixus-assessment/assets/82250418/400d323a-faf8-477f-98b6-37e78ebc4a75)
-4. Setup session's cookies for cmd to work
+4. [Setup session's cookies for cmd to work](#setup-session-cookies-for-cmd-api-calls)
 
 ## Clone and setup the system
 1. In your IDE, go to terminal and type in `git clone https://github.com/sirfaps/cognixus-assessment.git` to clone this code repository</br> 
@@ -33,10 +33,10 @@ And then go to the root folder of the project </br>
 3. To start the server just simply type in `docker-compose up` into the terminal and it should start
 ![image](https://github.com/sirfaps/cognixus-assessment/assets/82250418/e3312504-756b-4c30-a1f0-c4ae982cdc4a)
 
-4. To stop service, besure to just key into your keyboard with combination in the following `Ctrl + C`
-
+4. To stop service, besure to just key into your keyboard with a combination in the following `Ctrl + C`
 
 ## Setup .env
+
 1. Login to your Github account, and go to the settings.</br>
 ![Account Settings](https://github.com/sirfaps/cognixus-assessment/assets/82250418/53f2c894-b3ca-4154-bad7-5c199ddde4ce)
 2. Scroll down and find "Developer settings"</br>
@@ -52,7 +52,7 @@ And then go to the root folder of the project </br>
 7. Taking those two IDs you have just copied, please paste it into the following variables in .env file!</br>
 ![Screenshot_2](https://github.com/sirfaps/cognixus-assessment/assets/82250418/09b7d6d0-f345-487e-a617-7cc338503c40)
 
-## Setup session's cookies for CMD API Calls
+## Setup Session Cookies for CMD API Calls
 1. On your keyboard, press F12, go find "Application" as highlighted > Navigate to Cookies > Select session and copy the value below "Cookie Value"</br>
 ![copy the session cookie](https://github.com/sirfaps/cognixus-assessment/assets/82250418/8845b55b-9750-472d-8329-51b611363404)
 3. Once the value is copied, head to cookies.txt in the root folder of the project and replace the box with the value. 
