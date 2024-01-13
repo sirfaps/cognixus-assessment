@@ -14,7 +14,7 @@ In this project I am creating RESTful APIs using Python as the main language of 
 
 ## Setup Instructions
 1. Clone the repository.
-2. Set up environment variables [.env]([https://github.com/sirfaps/cognixus-assessment/edit/main/README.md#prerequisites](https://github.com/sirfaps/cognixus-assessment/tree/main?tab=readme-ov-file#setup-env))
+2. Set up environment variables [.env](https://github.com/sirfaps/cognixus-assessment/tree/main?tab=readme-ov-file#setup-env)
 3. Login to the system just by click the "Login button on the screen"![login server](https://github.com/sirfaps/cognixus-assessment/assets/82250418/400d323a-faf8-477f-98b6-37e78ebc4a75)
 5. Setup session's cookies for cmd to work
 
